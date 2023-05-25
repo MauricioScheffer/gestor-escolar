@@ -373,6 +373,7 @@ public class NewJFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_btBoletimActionPerformed
 
     private void btLimparActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btLimparActionPerformed
+
         txtNota1.setText(null);
         txtNome.setText(null);
         txtNota2.setText(null);
